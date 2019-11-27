@@ -17,7 +17,7 @@ $_['column_action']          = 'Akcija';
 
 // Entry
 $_['entry_title']            = 'Naziv informativne stranice';
-$_['entry_description']      = 'Opis';
+$_['entry_description']      = 'Sadržaj';
 $_['entry_meta_title']       = 'Meta Tag naziv';
 $_['entry_meta_keyword']     = 'Meta Tag ključne reči';
 $_['entry_meta_description'] = 'Meta Tag opis';

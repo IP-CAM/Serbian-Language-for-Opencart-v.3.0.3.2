@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']      = 'Opcije';
+$_['heading_title']      = 'Opcije poručivanja';
 
 // Text
-$_['text_success']       = 'Uspešno: Opcija sačuvana!';
-$_['text_list']          = 'Lista opcija';
-$_['text_add']           = 'Dodaj opciju';
-$_['text_edit']          = 'Izmeni opciju';
-$_['text_choose']        = 'Izameri';
-$_['text_select']        = 'Izaberi';
-$_['text_radio']         = 'Radio';
-$_['text_checkbox']      = 'Checkbox';
-$_['text_input']         = 'Input';
-$_['text_text']          = 'Text';
-$_['text_textarea']      = 'Textarea';
-$_['text_file']          = 'File';
-$_['text_date']          = 'Date';
-$_['text_datetime']      = 'Date &amp; Time';
-$_['text_time']          = 'Time';
-$_['text_option']        = 'Opcija';
+$_['text_success']       = 'Uspešno: Opcija poručivanja sačuvana!';
+$_['text_list']          = 'Lista opcija poručivanja';
+$_['text_add']           = 'Dodaj opciju poručivanja';
+$_['text_edit']          = 'Izmeni opciju poručivanja';
+$_['text_choose']        = 'Biranje';
+$_['text_select']        = 'Padajući meni';
+$_['text_radio']         = 'Čekiranje jedne mogućnosti';
+$_['text_checkbox']      = 'Čekiranje više mogućnosti';
+$_['text_input']         = 'Upis';
+$_['text_text']          = 'Malo polje';
+$_['text_textarea']      = 'Veliko polje';
+$_['text_file']          = 'Fajl';
+$_['text_date']          = 'Datum';
+$_['text_datetime']      = 'Datum &amp; vreme';
+$_['text_time']          = 'Vreme';
+$_['text_option']        = 'Opcija poručivanja';
 $_['text_value']         = 'Vrednost opcije';
 
 // Column

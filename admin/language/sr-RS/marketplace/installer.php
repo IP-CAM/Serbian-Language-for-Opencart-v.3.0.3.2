@@ -1,29 +1,29 @@
 <?php
 // Heading
-$_['heading_title']     = 'Extension Installer';
+$_['heading_title']     = 'Instaler ekstenzija';
 
 // Text
-$_['text_progress']     = 'Install Progress';
-$_['text_upload']       = 'Upload your extensions';
-$_['text_history']      = 'Install History';
-$_['text_success']      = 'Success: The extension has been installed!';
-$_['text_install']      = 'Installing';
+$_['text_progress']     = 'Status instaliranja';
+$_['text_upload']       = 'Uploadujte ekstenziju';
+$_['text_history']      = 'Istorija instaliranja';
+$_['text_success']      = 'Uspešno: Ekstenzija instalirana!';
+$_['text_install']      = 'Instaliranje...';
 
 // Column
-$_['column_filename']   = 'Filename';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_filename']   = 'Fajl';
+$_['column_date_added'] = 'Datum dodavanja';
+$_['column_action']     = 'Akcija';
 
 // Entry
-$_['entry_upload']      = 'Upload File';
-$_['entry_progress']    = 'Progress';
+$_['entry_upload']      = 'Izaberite ekstenziju';
+$_['entry_progress']    = 'Status instaliranja';
 
 // Help
-$_['help_upload']       = 'Requires a modification file with extension \'.ocmod.zip\'.';
+$_['help_upload']       = 'Fajl mora imati ekstenziju \'.ocmod.zip\'.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify extensions!';
-$_['error_install']     = 'Extension installation taking place please wait a few seconds before trying to install!';
-$_['error_upload']      = 'File could not be uploaded!';
-$_['error_filetype']    = 'Invalid file type!';
-$_['error_file']        = 'File could not be found!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';
+$_['error_install']     = 'Molimo Vas sačekajte minut dva pre instaliranja ekstenzije!';
+$_['error_upload']      = 'Fajl nije moguće uploadovati!';
+$_['error_filetype']    = 'Nepodržan tip fajla!';
+$_['error_file']        = 'Fajl nije pronađen!';
