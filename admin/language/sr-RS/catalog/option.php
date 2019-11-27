@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Options';
+$_['heading_title']      = 'Opcije';
 
 // Text
-$_['text_success']       = 'Success: You have modified options!';
-$_['text_list']          = 'Option List';
-$_['text_add']           = 'Add Option';
-$_['text_edit']          = 'Edit Option';
-$_['text_choose']        = 'Choose';
-$_['text_select']        = 'Select';
+$_['text_success']       = 'Uspešno: Opcija sačuvana!';
+$_['text_list']          = 'Lista opcija';
+$_['text_add']           = 'Dodaj opciju';
+$_['text_edit']          = 'Izmeni opciju';
+$_['text_choose']        = 'Izameri';
+$_['text_select']        = 'Izaberi';
 $_['text_radio']         = 'Radio';
 $_['text_checkbox']      = 'Checkbox';
 $_['text_input']         = 'Input';
@@ -18,24 +18,24 @@ $_['text_file']          = 'File';
 $_['text_date']          = 'Date';
 $_['text_datetime']      = 'Date &amp; Time';
 $_['text_time']          = 'Time';
-$_['text_option']        = 'Option';
-$_['text_value']         = 'Option Values';
+$_['text_option']        = 'Opcija';
+$_['text_value']         = 'Vrednost opcije';
 
 // Column
-$_['column_name']        = 'Option Name';
-$_['column_sort_order']  = 'Sort Order';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'Naziv opcije';
+$_['column_sort_order']  = 'Redosled';
+$_['column_action']      = 'Akcija';
 
 // Entry
-$_['entry_name']         = 'Option Name';
-$_['entry_type']         = 'Type';
-$_['entry_option_value'] = 'Option Value Name';
-$_['entry_image']        = 'Image';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_name']         = 'Naziv opcije';
+$_['entry_type']         = 'Tip';
+$_['entry_option_value'] = 'Vrednost opcije';
+$_['entry_image']        = 'Slika';
+$_['entry_sort_order']   = 'Redosled';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify options!';
-$_['error_name']         = 'Option Name must be between 1 and 128 characters!';
-$_['error_type']         = 'Warning: Option Values required!';
-$_['error_option_value'] = 'Option Value Name must be between 1 and 128 characters!';
-$_['error_product']      = 'Warning: This option cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']   = 'Upozorenje: Nemate dozvolu!';
+$_['error_name']         = 'Naziv opcije mora biti dužine između 1 i 128 karaktera!';
+$_['error_type']         = 'Upozorenje: Morate uneti vrednost opcije!';
+$_['error_option_value'] = 'Vrednost opcije mora biti dužine između 1 i 128 karaktera!';
+$_['error_product']      = 'Upozorenje: Opcija trenutno ne može biti obrisana jer je povezana sa %s proizvoda!';

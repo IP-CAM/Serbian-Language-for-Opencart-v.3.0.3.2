@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']     = 'Manufacturers';
+$_['heading_title']     = 'Proizvođači';
 
 // Text
-$_['text_success']      = 'Success: You have modified manufacturers!';
-$_['text_list']         = 'Manufacturer List';
-$_['text_add']          = 'Add Manufacturer';
-$_['text_edit']         = 'Edit Manufacturer';
-$_['text_default']      = 'Default';
-$_['text_percent']      = 'Percentage';
-$_['text_amount']       = 'Fixed Amount';
-$_['text_keyword']      = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+$_['text_success']      = 'Uspešno: Proizvođač sačuvan!';
+$_['text_list']         = 'Lista proizvođača';
+$_['text_add']          = 'Dodaj proizvođača';
+$_['text_edit']         = 'Izmeni proizvođača';
+$_['text_default']      = 'Podrazumevano';
+$_['text_percent']      = 'Procenat';
+$_['text_amount']       = 'Fiksni iznos';
+$_['text_keyword']      = 'Nije dozvoljeno korišćenje razmaka, umesto razmaka koristite - i SEO URL mora biti unikatan.';
 
 // Column
-$_['column_name']       = 'Manufacturer Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Naziv proizvođača';
+$_['column_sort_order'] = 'Redosled';
+$_['column_action']     = 'Akcija';
 
 // Entry
-$_['entry_name']        = 'Manufacturer Name';
-$_['entry_store']       = 'Stores';
-$_['entry_keyword']     = 'Keyword';
-$_['entry_image']       = 'Image';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_type']        = 'Type';
+$_['entry_name']        = 'Naziv proizvođača';
+$_['entry_store']       = 'Prodavnica';
+$_['entry_keyword']     = 'Ključna reč';
+$_['entry_image']       = 'Slika';
+$_['entry_sort_order']  = 'Redosled';
+$_['entry_type']        = 'Tip';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify manufacturers!';
-$_['error_name']        = 'Manufacturer Name must be between 1 and 64 characters!';
-$_['error_keyword']     = 'SEO URL already in use!';
-$_['error_unique']      = 'SEO URL must be unique!';
-$_['error_product']     = 'Warning: This manufacturer cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Upozorenja: Nemate dozvolu!';
+$_['error_name']        = 'Naziv proizvođača mora biti dužine između 1 i 64 karaktera!';
+$_['error_keyword']     = 'SEO URL koji ste uneli već postoji!';
+$_['error_unique']      = 'SEO URL mora biti unikatan!';
+$_['error_product']     = 'Upozorenja: Proizvođač trenutno ne može biti obrisan jer je povezan sa %s proizvoda!';

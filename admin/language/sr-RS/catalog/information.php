@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']          = 'Information';
+$_['heading_title']          = 'Informativne stranice';
 
 // Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
-$_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+$_['text_success']           = 'Uspešno: Informativna stranica sačuvana!';
+$_['text_list']              = 'Lista informativnih stranica';
+$_['text_add']               = 'Dodaj informativnu stranicu';
+$_['text_edit']              = 'Izmeni informativnu stranicu';
+$_['text_default']           = 'Podrazumevano';
+$_['text_keyword']           = 'Nije dozvoljeno korišćenje razmaka, umesto razmaka koristite - i SEO URL mora biti unikatan.';
 
 // Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_title']           = 'Naziv informativne stranice';
+$_['column_sort_order']      = 'Redosled';
+$_['column_action']          = 'Akcija';
 
 // Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_meta_title']       = 'Meta Tag Title';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
-$_['entry_bottom']           = 'Bottom';
+$_['entry_title']            = 'Naziv informativne stranice';
+$_['entry_description']      = 'Opis';
+$_['entry_meta_title']       = 'Meta Tag naziv';
+$_['entry_meta_keyword']     = 'Meta Tag ključne reči';
+$_['entry_meta_description'] = 'Meta Tag opis';
+$_['entry_store']            = 'Prodavnica';
+$_['entry_keyword']          = 'Ključna reč';
+$_['entry_bottom']           = 'Dodati u footer meni';
 $_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_sort_order']       = 'Redosled';
+$_['entry_layout']           = 'Promena layout-a';
 
 // Help
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_bottom']            = 'Prikazati link do informativne stranice u meniju u footer-u sajta.';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify information!';
-$_['error_title']            = 'Information Title must be between 1 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_keyword']          = 'SEO URL already in use!';
-$_['error_unique']           = 'SEO URL must be unique!';
-$_['error_account']          = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'Warning: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'Warning: This information page cannot be deleted as it is currently used by %s stores!';
+$_['error_warning']          = 'Upozorenje: Proverite greške!';
+$_['error_permission']       = 'Upozorenje: Nemate dozvolu!';
+$_['error_title']            = 'Naziv informativne stranice mora biti dužine između 1 i 64 karaktera!';
+$_['error_description']      = 'Dužina opisa mora biti duža od 3 karaktera!';
+$_['error_meta_title']       = 'Meta Tag naziv mora biti dužine između 1 i 255 karaktera!';
+$_['error_keyword']          = 'SEO URL koji ste uneli već postoji!';
+$_['error_unique']           = 'SEO URL mora biti unikatan!';
+$_['error_account']          = 'Upozorenje: Informativna stranica trenutno ne može biti obrisana jer se koristi u prodavnici!';
+$_['error_checkout']         = 'Upozorenje: Informativna stranica trenutno ne može biti obrisana jer se koristi u prodavnici!';
+$_['error_affiliate']        = 'Upozorenje: Informativna stranica trenutno ne može biti obrisana jer se koristi u prodavnici!';
+$_['error_return']           = 'Upozorenje: Informativna stranica trenutno ne može biti obrisana jer se koristi u prodavnici!';
+$_['error_store']            = 'Upozorenje: Informativna stranica trenutno ne može biti obrisana jer se koristi u %s prodavnici!';

@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']     = 'Attribute Groups';
+$_['heading_title']     = 'Grupe atributa';
 
 // Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
-$_['text_list']         = 'Attribute Group List';
-$_['text_add']          = 'Add Attribute Group';
-$_['text_edit']         = 'Edit Attribute Group';
+$_['text_success']      = 'Uspešno: Sačuvana grupa atributa!';
+$_['text_list']         = 'Lista grupa atributa';
+$_['text_add']          = 'Dodaj grupu atributa';
+$_['text_edit']         = 'Izmeni grupu atributa';
 
 // Column
-$_['column_name']       = 'Attribute Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Naziv grupe atributa';
+$_['column_sort_order'] = 'Redosled';
+$_['column_action']     = 'Akcija';
 
 // Entry
-$_['entry_name']        = 'Attribute Group Name';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_name']        = 'Naziv grupe atributa';
+$_['entry_sort_order']  = 'Redosled';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
-$_['error_name']        = 'Attribute Group Name must be between 1 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';
+$_['error_name']        = 'Naziv grupe atributa mora biti dužine između 1 i 64 karaktera!';
+$_['error_attribute']   = 'Upozorenje: Ova grupa atributa trenutno ne može biti obrisana jer sadrži %s atributa!';
+$_['error_product']     = 'Upozorenje: Ova grupa atributa trenutno ne može biti obrisana jer je povezana sa %s proizvoda!';

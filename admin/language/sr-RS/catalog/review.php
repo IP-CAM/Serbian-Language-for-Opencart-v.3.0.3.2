@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']     = 'Reviews';
+$_['heading_title']     = 'Komentari';
 
 // Text
-$_['text_success']      = 'Success: You have modified reviews!';
-$_['text_list']         = 'Review List';
-$_['text_add']          = 'Add Review';
-$_['text_edit']         = 'Edit Review';
+$_['text_success']      = 'Uspešno: Komentar sačuvan!';
+$_['text_list']         = 'Lista komentara';
+$_['text_add']          = 'Dodaj komentar';
+$_['text_edit']         = 'Izmeni komentar';
 $_['text_filter']       = 'Filter';
 
 // Column
-$_['column_product']    = 'Product';
-$_['column_author']     = 'Author';
-$_['column_rating']     = 'Rating';
+$_['column_product']    = 'Proizvod';
+$_['column_author']     = 'Autor';
+$_['column_rating']     = 'Ocena';
 $_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Datum dodavanja';
+$_['column_action']     = 'Akcija';
 
 // Entry
-$_['entry_product']     = 'Product';
-$_['entry_author']      = 'Author';
-$_['entry_rating']      = 'Rating';
+$_['entry_product']     = 'Proizvod';
+$_['entry_author']      = 'Autor';
+$_['entry_rating']      = 'Ocena';
 $_['entry_status']      = 'Status';
-$_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_text']        = 'Tekst';
+$_['entry_date_added']  = 'Datum dodavanja';
 
 // Help
-$_['help_product']      = '(Autocomplete)';
+$_['help_product']      = 'Proizvod na koji se odnosi komentar';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reviews!';
-$_['error_product']     = 'Product required!';
-$_['error_author']      = 'Author must be between 3 and 64 characters!';
-$_['error_text']        = 'Review Text must be at least 1 character!';
-$_['error_rating']      = 'Review rating required!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';
+$_['error_product']     = 'Neophodno je izabrati proizvod!';
+$_['error_author']      = 'Naziv autora mora biti dužine između 3 i 64 karaktera!';
+$_['error_text']        = 'Dužina teksta mora biti najmanje 1 karakter!';
+$_['error_rating']      = 'Neophodno je izabrati ocenu!';
