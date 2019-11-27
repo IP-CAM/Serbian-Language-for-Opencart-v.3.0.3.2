@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']  = 'Reset your password';
+$_['heading_title']  = 'Promena lozinke';
 
 // Text
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_password']  = 'Unesite novu lozinku.';
+$_['text_success']   = 'Uspešno: Nova lozinka sačuvana.';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
+$_['entry_password'] = 'Nova lozinka';
+$_['entry_confirm']  = 'Potvrdite novu lozinku';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
+$_['error_password'] = 'Lozinka mora biti dužine između 4 i 20 karaktera!';
+$_['error_confirm']  = 'Lozinka i potvrda lozinke se ne slažu!';

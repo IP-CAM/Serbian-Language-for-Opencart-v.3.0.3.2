@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']         = 'Profile';
+$_['heading_title']         = 'Profil';
 
 // Text
-$_['text_success']          = 'Success: You have modified your profile!';
-$_['text_edit']             = 'Edit Your Profile';
+$_['text_success']          = 'Uspešno: Izmene sačuvane!';
+$_['text_edit']             = 'Izmeni profil';
 
 // Column
-$_['column_username']       = 'Username';
+$_['column_username']       = 'Korisničko ime';
 $_['column_status']         = 'Status';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
+$_['column_date_added']     = 'Datum dodavanja';
+$_['column_action']         = 'Akcija';
 
 // Entry
-$_['entry_username']        = 'Username';
-$_['entry_password']        = 'Password';
-$_['entry_confirm']         = 'Confirm';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
+$_['entry_username']        = 'Korisničko ime';
+$_['entry_password']        = 'Lozinka';
+$_['entry_confirm']         = 'Potvrda lozinke';
+$_['entry_firstname']       = 'Ime';
+$_['entry_lastname']        = 'Prezime';
 $_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'Image';
+$_['entry_image']           = 'SLika';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify your profile!';
-$_['error_exists_username'] = 'Warning: Username is already in use!';
-$_['error_username']        = 'Username must be between 3 and 20 characters!';
-$_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']           = 'E-Mail Address does not appear to be valid!';
-$_['error_exists_email']    = 'Warning: E-Mail Address is already registered!';
+$_['error_permission']      = 'Upozorenje: Nemate dozvolu za izmenu!';
+$_['error_exists_username'] = 'Upozorenje: Korisnik sa istim korisničkim imenom već postoji!';
+$_['error_username']        = 'Korisničko ime mora biti dužine između 3 i 20 karaktera!';
+$_['error_password']        = 'Lozinka mora biti dužine između 4 i 20 karaktera!';
+$_['error_confirm']         = 'Lozinka i potvrda lozinke se ne slažu!';
+$_['error_firstname']       = 'Ime mora biti dužine između 1 i 32 karaktera!';
+$_['error_lastname']        = 'Prezime mora biti dužine između 1 i 32 karaktera!';
+$_['error_email']           = 'Neispravna E-Mail adresa!';
+$_['error_exists_email']    = 'Upozorenje: Korisnik sa istom E-Mail adresom već postoji!';

@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']    = 'Image Manager';
+$_['heading_title']    = 'Menadžer slika';
 
 // Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_directory']   = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
+$_['text_uploaded']    = 'Uspešno: Fajlovi su uploadovani!';
+$_['text_directory']   = 'Uspešno: Folder kreiran!';
+$_['text_delete']      = 'Uspešno: Uspešno obrisano!';
 
 // Entry
-$_['entry_search']     = 'Search..';
-$_['entry_folder']     = 'Folder Name';
+$_['entry_search']     = 'Pretraga...';
+$_['entry_folder']     = 'Ime foldera';
 
 // Error
-$_['error_permission'] = 'Warning: Permission Denied!';
-$_['error_filename']   = 'Warning: Filename must be between 3 and 255!';
-$_['error_folder']     = 'Warning: Folder name must be between 3 and 255!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_directory']  = 'Warning: Directory does not exist!';
-$_['error_filesize']   = 'Warning: Incorrect file size!';
-$_['error_filetype']   = 'Warning: Incorrect file type!';
-$_['error_upload']     = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
+$_['error_permission'] = 'Upozorenje: Nemate dozvolu!';
+$_['error_filename']   = 'Upozorenje: Ime fajla mora biti dužine između 3 i 255 karaktera!';
+$_['error_folder']     = 'Upozorenje: Ime foldera mora biti dužine između 3 i 255 karaktera!';
+$_['error_exists']     = 'Upozorenje: Fajl ili folder sa istim imenom već postoji!';
+$_['error_directory']  = 'Upozorenje: Folder ne postoji!';
+$_['error_filesize']   = 'Upozorenje: Greška u veličini fajla!';
+$_['error_filetype']   = 'Upozorenje: Greška u tipu fajla!';
+$_['error_upload']     = 'Upozorenje: Fajl ne može biti uploadovan iz nepoznatih razloga!';
+$_['error_delete']     = 'Upozorenje: Ne možete obrisati ovaj folder!';
