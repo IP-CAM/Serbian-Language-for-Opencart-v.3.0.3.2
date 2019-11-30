@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Language Editor';
+$_['heading_title']    = 'Editor jezika';
 
 // Text
-$_['text_success']     = 'Success: You have modified language editor!';
-$_['text_list']        = 'Translation List';
-$_['text_edit']        = 'Edit Translation';
-$_['text_add']         = 'Add Translation';
-$_['text_default']     = 'Default';
-$_['text_store']       = 'Store';
-$_['text_language']    = 'Language';
+$_['text_success']     = 'Uspešno: Jezik sačuvan!';
+$_['text_list']        = 'Lista prevoda';
+$_['text_edit']        = 'Izmeni prevod';
+$_['text_add']         = 'Dodaj prevod';
+$_['text_default']     = 'Podrazumevano';
+$_['text_store']       = 'Prodavnica';
+$_['text_language']    = 'Jezik';
 
 // Column
-$_['column_store']     = 'Store';
-$_['column_language']  = 'Language';
-$_['column_route']     = 'Route';
-$_['column_key']       = 'Key';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_store']     = 'Prodavnica';
+$_['column_language']  = 'Jezik';
+$_['column_route']     = 'Ruta';
+$_['column_key']       = 'Ključ';
+$_['column_value']     = 'Vrednost';
+$_['column_action']    = 'Akcija';
 
 // Entry
-$_['entry_store']      = 'Store';
-$_['entry_language']   = 'Language';
-$_['entry_route']      = 'Route';
-$_['entry_key']        = 'Key';
-$_['entry_default']    = 'Default';
-$_['entry_value']      = 'Value';
+$_['entry_store']      = 'Prodavnica';
+$_['entry_language']   = 'Jezik';
+$_['entry_route']      = 'Ruta';
+$_['entry_key']        = 'Ključ';
+$_['entry_default']    = 'Podrazumevano';
+$_['entry_value']      = 'Vrednost';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify language editor!';
-$_['error_key']        = 'Key must be between 3 and 64 characters!';
+$_['error_permission'] = 'Upozorenje: Nemate dozvolu!';
+$_['error_key']        = 'Dužina ključa mora biti između 3 i 64 karaktera!';

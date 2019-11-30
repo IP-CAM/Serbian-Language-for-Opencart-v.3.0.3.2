@@ -1,38 +1,38 @@
 <?php
 // Heading
-$_['heading_title']         = 'Users';
+$_['heading_title']         = 'Administratori';
 
 // Text
-$_['text_success']          = 'Success: You have modified users!';
-$_['text_list']             = 'User List';
-$_['text_add']              = 'Add User';
-$_['text_edit']             = 'Edit User';
+$_['text_success']          = 'Uspešno: Administrator sačuvan!';
+$_['text_list']             = 'Lista administratora';
+$_['text_add']              = 'Dodaj administratora';
+$_['text_edit']             = 'Izmeni administratora';
 
 // Column
-$_['column_username']       = 'Username';
+$_['column_username']       = 'Korisničko ime';
 $_['column_status']         = 'Status';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
+$_['column_date_added']     = 'Datum dodavanja';
+$_['column_action']         = 'Akcija';
 
 // Entry
-$_['entry_username']        = 'Username';
-$_['entry_user_group']      = 'User Group';
-$_['entry_password']        = 'Password';
-$_['entry_confirm']         = 'Confirm';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
+$_['entry_username']        = 'Korisničko ime';
+$_['entry_user_group']      = 'Grupa administratora';
+$_['entry_password']        = 'Lozinka';
+$_['entry_confirm']         = 'Potvrda lozinke';
+$_['entry_firstname']       = 'Ime';
+$_['entry_lastname']        = 'Prezime';
 $_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'Image';
+$_['entry_image']           = 'Slika';
 $_['entry_status']          = 'Status';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify users!';
-$_['error_account']         = 'Warning: You can not delete your own account!';
-$_['error_exists_username'] = 'Warning: Username is already in use!';
-$_['error_username']        = 'Username must be between 3 and 20 characters!';
-$_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']           = 'E-Mail Address does not appear to be valid!';
-$_['error_exists_email']    = 'Warning: E-Mail Address is already registered!';
+$_['error_permission']      = 'Upozorenje: Nemate dozvolu!';
+$_['error_account']         = 'Upozorenje: Ne možete obrisati sopstveni nalog!';
+$_['error_exists_username'] = 'Upozorenje: Korisničko ime već postoji!';
+$_['error_username']        = 'Korisničko ime mora biti dužine između 3 i 20 karaktera!';
+$_['error_password']        = 'Lozinka mora biti dužine između 4 i 20 karaktera!';
+$_['error_confirm']         = 'Lozinka i potvrda lozinke se ne slažu!';
+$_['error_firstname']       = 'Ime mora biti dužine između 1 i 32 karaktera!';
+$_['error_lastname']        = 'Prezime mora biti dužine između 1 i 32 karaktera!';
+$_['error_email']           = 'Neispravna E-Mail adresa!';
+$_['error_exists_email']    = 'Upozorenje: E-Mail adresa već postoji u sistemu!';
