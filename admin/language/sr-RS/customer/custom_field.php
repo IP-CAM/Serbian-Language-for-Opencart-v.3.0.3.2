@@ -1,55 +1,55 @@
 <?php
 // Heading
-$_['heading_title']        = 'Custom Fields';
+$_['heading_title']        = 'Dodatna polja';
 
 // Text
-$_['text_success']         = 'Success: You have modified custom fields!';
-$_['text_list']            = 'Custom Field List';
-$_['text_add']             = 'Add Custom Field';
-$_['text_edit']            = 'Edit Custom Field';
-$_['text_choose']          = 'Choose';
-$_['text_select']          = 'Select';
-$_['text_radio']           = 'Radio';
-$_['text_checkbox']        = 'Checkbox';
-$_['text_input']           = 'Input';
-$_['text_text']            = 'Text';
-$_['text_textarea']        = 'Textarea';
-$_['text_file']            = 'File';
-$_['text_date']            = 'Date';
-$_['text_datetime']        = 'Date &amp; Time';
-$_['text_time']            = 'Time';
-$_['text_account']         = 'Account';
-$_['text_address']         = 'Address';
+$_['text_success']         = 'Uspešno: Dodatno polje sačuvano!';
+$_['text_list']            = 'Lista dodatnih polja';
+$_['text_add']             = 'Dodaj dodatno polje';
+$_['text_edit']            = 'Izmeni dodatno polje';
+$_['text_choose']          = 'Biranje';
+$_['text_select']          = 'Padajući meni';
+$_['text_radio']           = 'Čekiranje jedne mogućnosti';
+$_['text_checkbox']        = 'Čekiranje više mogućnosti';
+$_['text_input']           = 'Upis';
+$_['text_text']            = 'Malo polje';
+$_['text_textarea']        = 'Veliko polje';
+$_['text_file']            = 'Fajl';
+$_['text_date']            = 'Datum';
+$_['text_datetime']        = 'Datum &amp; vreme';
+$_['text_time']            = 'Vreme';
+$_['text_account']         = 'Kreiranje naloga';
+$_['text_address']         = 'Dodavanje adrese';
 $_['text_affiliate']       = 'Affiliate';
 $_['text_regex']           = 'Regex';
-$_['text_custom_field']    = 'Custom Field';
-$_['text_value']           = 'Custom Field Values';
+$_['text_custom_field']    = 'Dodatno polje';
+$_['text_value']           = 'Vrednost dodatnog polja';
 
 // Column
-$_['column_name']          = 'Custom Field Name';
-$_['column_location']      = 'Location';
-$_['column_type']          = 'Type';
-$_['column_sort_order']    = 'Sort Order';
-$_['column_action']        = 'Action';
+$_['column_name']          = 'Naziv dodatnog polja';
+$_['column_location']      = 'Lokacija';
+$_['column_type']          = 'Tip';
+$_['column_sort_order']    = 'Redosled';
+$_['column_action']        = 'Akcija';
 
 // Entry
-$_['entry_name']           = 'Custom Field Name';
-$_['entry_location']       = 'Location';
-$_['entry_type']           = 'Type';
-$_['entry_value']          = 'Value';
-$_['entry_validation']     = 'Validation';
-$_['entry_custom_value']   = 'Custom Field Value Name';
-$_['entry_customer_group'] = 'Customer Group';
-$_['entry_required']       = 'Required';
+$_['entry_name']           = 'Naziv dodatnog polja';
+$_['entry_location']       = 'Lokacija';
+$_['entry_type']           = 'Tip';
+$_['entry_value']          = 'Vrednost';
+$_['entry_validation']     = 'Validacija';
+$_['entry_custom_value']   = 'Naziv vrednosti dodatnog polja';
+$_['entry_customer_group'] = 'Grupa korisnika';
+$_['entry_required']       = 'Neophodno';
 $_['entry_status']         = 'Status';
-$_['entry_sort_order']     = 'Sort Order';
+$_['entry_sort_order']     = 'Redosled';
 
 // Help
 $_['help_regex']           = 'Use regex. E.g: /[a-zA-Z0-9_-]/';
 $_['help_sort_order']      = 'Use minus to count backwards from the last field in the set.';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify custom fields!';
-$_['error_name']           = 'Custom Field Name must be between 1 and 128 characters!';
-$_['error_type']           = 'Warning: Custom Field Values required!';
-$_['error_custom_value']   = 'Custom Value Name must be between 1 and 128 characters!';
+$_['error_permission']     = 'Upozorenje: Nemate dozvolu!';
+$_['error_name']           = 'Naziv dodatnog polja mora biti dužine između 1 i 128 karaktera!';
+$_['error_type']           = 'Upozorenje: Neophodno uneti vrednosti dodatnog polja!';
+$_['error_custom_value']   = 'Naziv vrednosti dodatnog polja mora biti dužine između 1 i 128 karaktera!';

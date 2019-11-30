@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']     = 'Customer Groups';
+$_['heading_title']     = 'Grupe korisnika';
 
 // Text
-$_['text_success']      = 'Success: You have modified customer groups!';
-$_['text_list']         = 'Customer Group List';
-$_['text_add']          = 'Add Customer Group';
-$_['text_edit']         = 'Edit Customer Group';
+$_['text_success']      = 'Uspešno: Grupa korisnika sačuvana!';
+$_['text_list']         = 'Lista grupa korisnika';
+$_['text_add']          = 'Dodaj grupu korisnika';
+$_['text_edit']         = 'Izmeni grupu korisnika';
 
 // Column
-$_['column_name']       = 'Customer Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Naziv grupe korisnika';
+$_['column_sort_order'] = 'Redosled';
+$_['column_action']     = 'Akcija';
 
 // Entry
-$_['entry_name']        = 'Customer Group Name';
-$_['entry_description'] = 'Description';
-$_['entry_approval']    = 'Approve New Customers';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_name']        = 'Naziv grupe korisnika';
+$_['entry_description'] = 'Opis';
+$_['entry_approval']    = 'Neophodno odobrenje novih korisnika';
+$_['entry_sort_order']  = 'Redosled';
 
 // Help
-$_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
+$_['help_approval']     = 'Novi korisnici moraju biti odobreni od strane administratora.';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer groups!';
-$_['error_name']        = 'Customer Group Name must be between 3 and 32 characters!';
-$_['error_default']     = 'Warning: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
-$_['error_store']       = 'Warning: This customer group cannot be deleted as it is currently assigned to %s stores!';
-$_['error_customer']    = 'Warning: This customer group cannot be deleted as it is currently assigned to %s customers!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';
+$_['error_name']        = 'Naziv grupe korisnika mora biti dužine između 3 i 32 karaktera!';
+$_['error_default']     = 'Upozorenje: Grupa korisnika trenutno ne može biti obrisana jer je dodeljena kao podrazumevana grupa korisnika!';
+$_['error_store']       = 'Upozorenje: Grupa korisnika trenutno ne može biti obrisana jer je dodeljena u %s prodavnica!';
+$_['error_customer']    = 'Upozorenje: Grupa korisnika trenutno ne može biti obrisana jer je dodeljena u %s korisnika!';

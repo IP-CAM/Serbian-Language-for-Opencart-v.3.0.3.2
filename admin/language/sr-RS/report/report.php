@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Reports';
+$_['heading_title'] = 'Izveštaji';
 
 // Text
-$_['text_success']  = 'Success: You have modified reports!';
-$_['text_list']     = 'Report List';
-$_['text_type']     = 'Choose the report type';
-$_['text_filter']   = 'Filter';
+$_['text_success']  = 'Uspešno: Izveštaj sačuvan!';
+$_['text_list']     = 'Lista izveštaja';
+$_['text_type']     = 'Izaberite tip izveštaja';
+$_['text_filter']   = 'Pretraga';

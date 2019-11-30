@@ -1,57 +1,57 @@
 <?php
 // Heading
-$_['heading_title']       = 'Coupons';
+$_['heading_title']       = 'Kuponi';
 
 // Text
-$_['text_success']        = 'Success: You have modified coupons!';
-$_['text_list']           = 'Coupon List';
-$_['text_add']            = 'Add Coupon';
-$_['text_edit']           = 'Edit Coupon';
-$_['text_percent']        = 'Percentage';
-$_['text_amount']         = 'Fixed Amount';
-$_['text_coupon']         = 'Coupon History';
+$_['text_success']        = 'Uspešno: Kupon sačuvan!';
+$_['text_list']           = 'Lista kupona';
+$_['text_add']            = 'Dodaj kupon';
+$_['text_edit']           = 'Izmeni kupon';
+$_['text_percent']        = 'Procenat';
+$_['text_amount']         = 'Fiksni iznos';
+$_['text_coupon']         = 'Istorija kupona';
 
 // Column
-$_['column_name']         = 'Coupon Name';
-$_['column_code']         = 'Code';
-$_['column_discount']     = 'Discount';
-$_['column_date_start']   = 'Date Start';
-$_['column_date_end']     = 'Date End';
+$_['column_name']         = 'Naziv kupona';
+$_['column_code']         = 'Kod';
+$_['column_discount']     = 'Popust';
+$_['column_date_start']   = 'Datum početka';
+$_['column_date_end']     = 'Datum završetka';
 $_['column_status']       = 'Status';
-$_['column_order_id']     = 'Order ID';
-$_['column_customer']     = 'Customer';
-$_['column_amount']       = 'Amount';
-$_['column_date_added']   = 'Date Added';
-$_['column_action']       = 'Action';
+$_['column_order_id']     = 'ID porudžbine';
+$_['column_customer']     = 'Kupac';
+$_['column_amount']       = 'Iznos';
+$_['column_date_added']   = 'Datum kupovine';
+$_['column_action']       = 'Akcija';
 
 // Entry
-$_['entry_name']          = 'Coupon Name';
-$_['entry_code']          = 'Code';
-$_['entry_type']          = 'Type';
-$_['entry_discount']      = 'Discount';
-$_['entry_logged']        = 'Customer Login';
-$_['entry_shipping']      = 'Free Shipping';
-$_['entry_total']         = 'Total Amount';
-$_['entry_category']      = 'Category';
-$_['entry_product']       = 'Products';
-$_['entry_date_start']    = 'Date Start';
-$_['entry_date_end']      = 'Date End';
-$_['entry_uses_total']    = 'Uses Per Coupon';
-$_['entry_uses_customer'] = 'Uses Per Customer';
+$_['entry_name']          = 'Naziv kupona';
+$_['entry_code']          = 'Kod';
+$_['entry_type']          = 'Tip';
+$_['entry_discount']      = 'Popust';
+$_['entry_logged']        = 'Kupac mora biti ulogovan';
+$_['entry_shipping']      = 'Besplatna dostava';
+$_['entry_total']         = 'Minimalna porudžbina';
+$_['entry_category']      = 'Categorije';
+$_['entry_product']       = 'Proizvodi';
+$_['entry_date_start']    = 'Datum početka';
+$_['entry_date_end']      = 'Datum završetka';
+$_['entry_uses_total']    = 'Maksimalan broj korišćenja kupona';
+$_['entry_uses_customer'] = 'Maksimalan broj korišćenja kupona po korisniku';
 $_['entry_status']        = 'Status';
 
 // Help
-$_['help_code']           = 'The code the customer enters to get the discount.';
-$_['help_type']           = 'Percentage or Fixed Amount.';
-$_['help_logged']         = 'Customer must be logged in to use the coupon.';
-$_['help_total']          = 'The total amount that must be reached before the coupon is valid.';
-$_['help_category']       = 'Choose all products under selected category.';
-$_['help_product']        = 'Choose specific products the coupon will apply to. Select no products to apply coupon to entire cart.';
-$_['help_uses_total']     = 'The maximum number of times the coupon can be used by any customer. Leave blank for unlimited';
-$_['help_uses_customer']  = 'The maximum number of times the coupon can be used by a single customer. Leave blank for unlimited';
+$_['help_code']           = 'Kod koji korisnik mora da unese kako bi dobio popust.';
+$_['help_type']           = 'Procenat ili fiksni iznos.';
+$_['help_logged']         = 'Korisnik mora da bude ulogovan kako bi imao mogućnost da iskoristi popust.';
+$_['help_total']          = 'Minimalna cena proizvoda koja mora biti u korpi kako bi korisnik mogao da iskoristi kupon.';
+$_['help_category']       = 'Izaberite kategorije na koje je moguće primeniti kupon.';
+$_['help_product']        = 'Izaberite određene proizvode na koje je moguće primeniti kupon. Ostavite prazno ukoliko je kupon moguće primeniti na sve proizvode.';
+$_['help_uses_total']     = 'Maksimalan broj korišćenja kupona. Ostavite prazno kako bi ga bilo moguće koristiti neograničen broj puta';
+$_['help_uses_customer']  = 'Maksimalan broj korišćenja kupona po korisniku. Ostavite prazno kako bi ga bilo moguće koristiti neograničen broj puta';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify coupons!';
-$_['error_exists']        = 'Warning: Coupon code is already in use!';
-$_['error_name']          = 'Coupon Name must be between 3 and 128 characters!';
-$_['error_code']          = 'Code must be between 3 and 10 characters!';
+$_['error_permission']    = 'Upozorenje: Nemate dozvolu!';
+$_['error_exists']        = 'Upozorenje: Već postoji kupon sa istim kodom!';
+$_['error_name']          = 'Naziv kupona mora biti dužine između 3 i 128 karaktera!';
+$_['error_code']          = 'Kod kupona mora biti dužine između 3 i 10 karaktera!';
