@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']                = 'Stores';
+$_['heading_title']                = 'Prodavnice';
 
 // Text
-$_['text_settings']                = 'Settings';
-$_['text_success']                 = 'Success: You have modified Stores!';
-$_['text_list']                    = 'Store List';
-$_['text_add']                     = 'Add Store';
-$_['text_edit']                    = 'Edit Store';
+$_['text_settings']                = 'Podešavanja';
+$_['text_success']                 = 'Uspešno: Prodavnica sačuvana!';
+$_['text_list']                    = 'Lista prodavnica';
+$_['text_add']                     = 'Dodaj prodavnicu';
+$_['text_edit']                    = 'Izmeni prodavnicu';
 $_['text_items']                   = 'Items';
 $_['text_tax']                     = 'Taxes';
 $_['text_account']                 = 'Account';
@@ -17,34 +17,34 @@ $_['text_shipping']                = 'Shipping Address';
 $_['text_payment']                 = 'Payment Address';
 
 // Column
-$_['column_name']                  = 'Store Name';
-$_['column_url']	               = 'Store URL';
-$_['column_action']                = 'Action';
+$_['column_name']                  = 'Naziv prodavnice';
+$_['column_url']	               = 'URL prodavnice';
+$_['column_action']                = 'Akcija';
 
 // Entry
-$_['entry_url']                    = 'Store URL';
+$_['entry_url']                    = 'URL prodavnice';
 $_['entry_ssl']                    = 'SSL URL';
-$_['entry_meta_title']             = 'Meta Title';
-$_['entry_meta_description']       = 'Meta Tag Description';
-$_['entry_meta_keyword']           = 'Meta Tag Keywords';
-$_['entry_layout']                 = 'Default Layout';
-$_['entry_theme']                  = 'Theme';
-$_['entry_name']                   = 'Store Name';
-$_['entry_owner']                  = 'Store Owner';
-$_['entry_address']                = 'Address';
+$_['entry_meta_title']             = 'Meta Tag naziv';
+$_['entry_meta_description']       = 'Meta Tag opis';
+$_['entry_meta_keyword']           = 'Meta Tag ključne reči';
+$_['entry_layout']                 = 'Podrazumevani layout';
+$_['entry_theme']                  = 'Tema';
+$_['entry_name']                   = 'Naziv prodavnice';
+$_['entry_owner']                  = 'Vlasnik prodavnice';
+$_['entry_address']                = 'Adresa';
 $_['entry_geocode']                = 'Geocode';
 $_['entry_email']                  = 'E-Mail';
-$_['entry_telephone']              = 'Telephone';
+$_['entry_telephone']              = 'Telefon';
 $_['entry_fax']                    = 'Fax';
-$_['entry_image']                  = 'Image';
-$_['entry_open']                   = 'Opening Times';
-$_['entry_comment']                = 'Comment';
-$_['entry_location']               = 'Store Location';
-$_['entry_country']                = 'Country';
-$_['entry_zone']                   = 'Region / State';
-$_['entry_language']               = 'Language';
-$_['entry_currency']               = 'Currency';
-$_['entry_tax']                    = 'Display Prices With Tax';
+$_['entry_image']                  = 'Slika';
+$_['entry_open']                   = 'Radno vreme';
+$_['entry_comment']                = 'Komentar';
+$_['entry_location']               = 'Lokacija prodavnice';
+$_['entry_country']                = 'Država';
+$_['entry_zone']                   = 'Region';
+$_['entry_language']               = 'Jezik';
+$_['entry_currency']               = 'Valuta';
+$_['entry_tax']                    = 'Prikazati cene sa uračunatim porezima';
 $_['entry_tax_default']            = 'Use Store Tax Address';
 $_['entry_tax_customer']           = 'Use Customer Tax Address';
 $_['entry_customer_group']         = 'Customer Group';
