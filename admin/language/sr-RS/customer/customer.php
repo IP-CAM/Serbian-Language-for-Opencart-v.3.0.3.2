@@ -25,7 +25,7 @@ $_['text_reward']               = 'Reward Points';
 $_['text_reward_add']           = 'Add Reward Points';
 $_['text_ip']                   = 'IP';
 $_['text_option']               = 'Opcije';
-$_['text_login']                = 'Uloguj se kao korisnik';
+$_['text_login']                = 'Uloguj se na prodavnicu';
 $_['text_unlock']               = 'Otključaj nalog';
 
 // Column
