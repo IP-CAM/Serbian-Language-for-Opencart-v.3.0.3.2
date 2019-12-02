@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Products Purchased Report';
+$_['heading_title']     = 'Kupljeni proizvodi';
 
 // Text
 $_['text_extension']    = 'Extensions';
@@ -10,19 +10,19 @@ $_['text_filter']       = 'Filter';
 $_['text_all_status']   = 'All Statuses';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_name']       = 'Product Name';
+$_['column_date_start'] = 'Od datuma';
+$_['column_date_end']   = 'Do datuma';
+$_['column_name']       = 'Naziv proizvoda';
 $_['column_model']      = 'Model';
-$_['column_quantity']   = 'Quantity';
-$_['column_total']      = 'Total';
+$_['column_quantity']   = 'Količina';
+$_['column_total']      = 'Ukupan iznos';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_date_start']  = 'Od datuma';
+$_['entry_date_end']    = 'Do datuma';
 $_['entry_status']      = 'Order Status';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Redosled';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify products purchased report!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';

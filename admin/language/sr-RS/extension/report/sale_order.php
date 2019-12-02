@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Sales Report';
+$_['heading_title']     = 'Prodaje';
 
 // Text
 $_['text_extension']    = 'Extensions';
@@ -14,20 +14,20 @@ $_['text_day']          = 'Days';
 $_['text_all_status']   = 'All Statuses';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_orders']     = 'No. Orders';
-$_['column_products']   = 'No. Products';
-$_['column_tax']        = 'Tax';
-$_['column_total']      = 'Total';
+$_['column_date_start'] = 'Od datuma';
+$_['column_date_end']   = 'Do datuma';
+$_['column_orders']     = 'Broj porudžbina';
+$_['column_products']   = 'Broj proizvoda';
+$_['column_tax']        = 'Porez';
+$_['column_total']      = 'Ukupan iznos';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_group']       = 'Group By';
+$_['entry_date_start']  = 'Od datuma';
+$_['entry_date_end']    = 'Do datuma';
+$_['entry_group']       = 'Grupiši po';
 $_['entry_status']      = 'Order Status';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Redosled';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify sales report!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu';

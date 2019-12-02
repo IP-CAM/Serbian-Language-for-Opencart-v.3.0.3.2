@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Customer Searches Report';
+$_['heading_title']     = 'Pretrage korisnika';
 
 // Text
 $_['text_extension']    = 'Extensions';
@@ -8,24 +8,25 @@ $_['text_edit']         = 'Edit Customer Searches Report';
 $_['text_success']      = 'Success: You have modified customer searches report!';
 $_['text_filter']       = 'Filter';
 $_['text_guest']        = 'Guest';
-$_['text_customer']     = '<a href="%s">%s</a>';
+$_['text_customer']     = '<span style="display: none;">%s</span>%s';
+//$_['text_customer']     = '<a href="%s">%s</a>';
 
 // Column
-$_['column_keyword']    = 'Keyword';
-$_['column_products']   = 'Found Products';
-$_['column_category']   = 'Category';
-$_['column_customer']   = 'Customer';
+$_['column_keyword']    = 'Ukucana reč';
+$_['column_products']   = 'Pronađeno proizvoda';
+$_['column_category']   = 'Kategorija';
+$_['column_customer']   = 'Korisnik';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Datum pretrage';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_keyword']     = 'Keyword';
-$_['entry_customer']    = 'Customer';
+$_['entry_date_start']  = 'Od datuma';
+$_['entry_date_end']    = 'Do datuma';
+$_['entry_keyword']     = 'Ukucana reč';
+$_['entry_customer']    = 'Korisnik';
 $_['entry_ip']          = 'IP';
 $_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Redosled';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer searches report!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';

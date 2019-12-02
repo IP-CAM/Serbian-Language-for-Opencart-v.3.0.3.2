@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customer Orders Report';
+$_['heading_title']         = 'Poručivanja po korisniku';
 
 // Text
 $_['text_extension']        = 'Extensions';
@@ -10,22 +10,22 @@ $_['text_filter']           = 'Filter';
 $_['text_all_status']       = 'All Statuses';
 
 // Column
-$_['column_customer']       = 'Customer Name';
+$_['column_customer']       = 'Ime korisnika';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_customer_group'] = 'Grupa korisnika';
 $_['column_status']         = 'Status';
-$_['column_orders']         = 'No. Orders';
-$_['column_products']       = 'No. Products';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_orders']         = 'Broj porudžbina';
+$_['column_products']       = 'Broj proizvoda';
+$_['column_total']          = 'Ukupan iznos';
+$_['column_action']         = 'Akcija';
 
 // Entry
-$_['entry_date_start']      = 'Date Start';
-$_['entry_date_end']        = 'Date End';
-$_['entry_customer']        = 'Customer';
+$_['entry_date_start']      = 'Od datuma';
+$_['entry_date_end']        = 'Do datuma';
+$_['entry_customer']        = 'Korisnik';
 $_['entry_status']          = 'Order Status';
 $_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Redosled';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer orders report!';
+$_['error_permission']  = 'Upozorenje: Nemate dozvolu!';
