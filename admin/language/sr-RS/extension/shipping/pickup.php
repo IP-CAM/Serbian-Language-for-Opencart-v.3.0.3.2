@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Pickup From Store';
+$_['heading_title']    = 'Lično preuzimanje u prodavnici';
 
 // Text
 $_['text_extension']   = 'Extensions';

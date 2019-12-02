@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Flat Rate';
+$_['heading_title']    = 'Dostava kurirskom službom';
 
 // Text
 $_['text_extension']   = 'Extensions';

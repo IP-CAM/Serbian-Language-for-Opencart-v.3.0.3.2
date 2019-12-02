@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Cash On Delivery';
+$_['heading_title']      = 'Plaćanje pouzećem';
 
 // Text
 $_['text_extension']     = 'Extensions';
