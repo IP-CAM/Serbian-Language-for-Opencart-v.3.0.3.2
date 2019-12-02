@@ -33,7 +33,7 @@ $_['entry_meta_title']       = 'Meta Tag naziv';
 $_['entry_meta_keyword']     = 'Meta Tag ključne reči';
 $_['entry_meta_description'] = 'Meta Tag opis';
 $_['entry_store']            = 'Prodavnca';
-$_['entry_keyword']          = 'Ključna reč';
+$_['entry_keyword']          = 'Adresa';
 $_['entry_model']            = 'Model';
 $_['entry_sku']              = 'SKU';
 $_['entry_upc']              = 'UPC';
@@ -80,7 +80,7 @@ $_['entry_download']         = 'Preuzimanja';
 $_['entry_related']          = 'Povezani proizvodi';
 $_['entry_tag']              = 'Ključne reči(tagovi)';
 $_['entry_reward']           = 'Reward Points';
-$_['entry_layout']           = 'Promena layout-a';
+$_['entry_layout']           = 'Layout';
 $_['entry_recurring']        = 'Recurring Profile';
 
 // Help

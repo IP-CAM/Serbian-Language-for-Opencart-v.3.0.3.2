@@ -22,11 +22,11 @@ $_['entry_meta_title']       = 'Meta Tag naziv';
 $_['entry_meta_keyword']     = 'Meta Tag ključne reči';
 $_['entry_meta_description'] = 'Meta Tag opis';
 $_['entry_store']            = 'Prodavnica';
-$_['entry_keyword']          = 'Ključna reč';
+$_['entry_keyword']          = 'Adresa';
 $_['entry_bottom']           = 'Dodati u footer meni';
 $_['entry_status']           = 'Status';
 $_['entry_sort_order']       = 'Redosled';
-$_['entry_layout']           = 'Promena layout-a';
+$_['entry_layout']           = 'Layout';
 
 // Help
 $_['help_bottom']            = 'Prikazati link do informativne stranice u meniju u footer-u sajta.';

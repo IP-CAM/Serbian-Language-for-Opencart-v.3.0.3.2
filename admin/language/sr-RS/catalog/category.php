@@ -22,7 +22,7 @@ $_['entry_meta_title'] 	     = 'Meta Tag naziv';
 $_['entry_meta_keyword']     = 'Meta Tag ključne reči';
 $_['entry_meta_description'] = 'Meta Tag opis';
 $_['entry_store']            = 'Prodavnica';
-$_['entry_keyword']          = 'Ključna reč';
+$_['entry_keyword']          = 'Adresa';
 $_['entry_parent']           = 'Kategorija kojoj pripada';
 $_['entry_filter']           = 'Filteri';
 $_['entry_image']            = 'Slika';
@@ -30,7 +30,7 @@ $_['entry_top']              = 'Prikaz u top navigacionom baru';
 $_['entry_column']           = 'Broj kolona';
 $_['entry_sort_order']       = 'Redosled';
 $_['entry_status']           = 'Status';
-$_['entry_layout']           = 'Promena layout-a';
+$_['entry_layout']           = 'Layout';
 
 // Help
 $_['help_filter']            = 'Filteri';

@@ -3,14 +3,14 @@
 $_['heading_title']        = 'E-Mail';
 
 // Text
-$_['text_success']         = 'E-Mal uspešno poslat!';
-$_['text_sent']            = 'E-Mal uspešno poslat na %s od %s primalaca!';
+$_['text_success']         = 'E-Mail uspešno poslat!';
+$_['text_sent']            = 'E-Mail uspešno poslat na %s od %s primalaca!';
 $_['text_list']            = 'Lista mejlova';
 $_['text_default']         = 'Podrazumevano';
 $_['text_newsletter']      = 'Sve pretplatnike na novine';
 $_['text_customer_all']    = 'Sve korisnike';
 $_['text_customer_group']  = 'Grupu korisnika';
-$_['text_customer']        = 'Korisnike';
+$_['text_customer']        = 'Određene korisnike';
 $_['text_affiliate_all']   = 'All Affiliates';
 $_['text_affiliate']       = 'Affiliates';
 $_['text_product']         = 'Kupce određenih proizvoda';
