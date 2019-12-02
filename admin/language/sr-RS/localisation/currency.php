@@ -1,38 +1,38 @@
 <?php
 // Heading
-$_['heading_title']        = 'Currencies';
+$_['heading_title']        = 'Valute';
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
-$_['text_list']            = 'Currency List';
-$_['text_add']             = 'Add Currency';
-$_['text_edit']            = 'Edit Currency';
-$_['text_iso']             = 'You can find a full list of ISO currency codes and settings <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">here</a>.';
+$_['text_success']         = 'Uspešno: Valuta sačuvana!';
+$_['text_list']            = 'Lista valuta';
+$_['text_add']             = 'Dodaj valutu';
+$_['text_edit']            = 'Izmeni valutu';
+$_['text_iso']             = 'Možete naći listu ISO kodova valuta i podešavanja na sledećem <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">linku</a>.';
 
 // Column
-$_['column_title']         = 'Currency Title';
-$_['column_code']          = 'Code';
-$_['column_value']         = 'Value';
-$_['column_date_modified'] = 'Last Updated';
-$_['column_action']        = 'Action';
+$_['column_title']         = 'Naziv valute';
+$_['column_code']          = 'Kod';
+$_['column_value']         = 'Vrednost';
+$_['column_date_modified'] = 'Poslednja izmena';
+$_['column_action']        = 'Akcija';
 
 // Entry
-$_['entry_title']          = 'Currency Title';
-$_['entry_code']           = 'Code';
-$_['entry_value']          = 'Value';
-$_['entry_symbol_left']    = 'Symbol Left';
-$_['entry_symbol_right']   = 'Symbol Right';
-$_['entry_decimal_place']  = 'Decimal Places';
+$_['entry_title']          = 'Naziv valute';
+$_['entry_code']           = 'Kod';
+$_['entry_value']          = 'Vrednost';
+$_['entry_symbol_left']    = 'Prefiks';
+$_['entry_symbol_right']   = 'Sufiks';
+$_['entry_decimal_place']  = 'Broj decimala';
 $_['entry_status']         = 'Status';
 
 // Help
-$_['help_code']            = 'Do not change if this is your default currency.';
-$_['help_value']           = 'Set to 1.00000 if this is your default currency.';
+$_['help_code']            = 'Ne menjajte ako je ovo podrazumevana valuta prodavnice.';
+$_['help_value']           = 'Postavite na 1.00000 ako je ovo podrazumevana valuta prodavnice.';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify currencies!';
-$_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
-$_['error_code']           = 'Currency Code must contain 3 characters!';
-$_['error_default']        = 'Warning: This currency cannot be deleted as it is currently assigned as the default store currency!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']     = 'Upozorenje: Nemate dozvolu!';
+$_['error_title']          = 'Naziv valute mora biti dužine između 3 i 32 karaktera!';
+$_['error_code']           = 'Kod valute mora sadržati 3 karaktera!';
+$_['error_default']        = 'Upozorenje: Ova valuta ne može trenutno biti obrisana jer je podrazumevana valuta prodavnice!';
+$_['error_store']          = 'Upozorenje: Ova valuta ne može trenutno biti obrisana jer je podrazumevana valuta %s prodavnice!';
+$_['error_order']          = 'Upozorenje: Ova valuta ne može trenutno biti obrisana jer se koristi u %s porudžbina!';

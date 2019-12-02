@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sales Analytics';
+$_['heading_title']    = 'Prodaje';
 
 // Text
 $_['text_extension']   = 'Extensions';
 $_['text_success']     = 'Success: You have modified dashboard chart!';
 $_['text_edit']        = 'Edit Dashboard Chart';
-$_['text_order']       = 'Orders';
-$_['text_customer']    = 'Customers';
-$_['text_day']         = 'Today';
-$_['text_week']        = 'Week';
-$_['text_month']       = 'Month';
-$_['text_year']        = 'Year';
+$_['text_order']       = 'Porudžbine';
+$_['text_customer']    = 'Korisnici';
+$_['text_day']         = 'Danas';
+$_['text_week']        = 'Ove nedelje';
+$_['text_month']       = 'Ovog meseca';
+$_['text_year']        = 'Ove godine';
 
 // Entry
 $_['entry_status']     = 'Status';

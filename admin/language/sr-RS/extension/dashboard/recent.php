@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Latest Orders';
+$_['heading_title']     = 'Najnovije porudžbine';
 
 // Text
 $_['text_extension']    = 'Extensions';
@@ -8,12 +8,12 @@ $_['text_success']      = 'Success: You have modified dashboard recent orders!';
 $_['text_edit']         = 'Edit Dashboard Recent Orders';
 
 // Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
+$_['column_order_id']   = 'ID porudžbine';
+$_['column_customer']   = 'Kupac';
 $_['column_status']     = 'Status';
-$_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_total']      = 'Ukupan iznos';
+$_['column_date_added'] = 'Datum kupovine';
+$_['column_action']     = 'Akcija';
 
 
 // Entry

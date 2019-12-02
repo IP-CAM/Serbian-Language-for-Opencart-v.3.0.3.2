@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']           = 'Countries';
+$_['heading_title']           = 'Države';
 
 // Text
-$_['text_success']            = 'Success: You have modified countries!';
-$_['text_list']               = 'Country List';
-$_['text_add']                = 'Add Country';
-$_['text_edit']               = 'Edit Country';
+$_['text_success']            = 'Uspešno: Država sačuvana!';
+$_['text_list']               = 'Lista država';
+$_['text_add']                = 'Dodaj državu';
+$_['text_edit']               = 'Izmeni državu';
 
 // Column
-$_['column_name']             = 'Country Name';
-$_['column_iso_code_2']       = 'ISO Code (2)';
-$_['column_iso_code_3']       = 'ISO Code (3)';
-$_['column_action']           = 'Action';
+$_['column_name']             = 'Naziv države';
+$_['column_iso_code_2']       = 'ISO kod (2)';
+$_['column_iso_code_3']       = 'ISO kod (3)';
+$_['column_action']           = 'Akcija';
 
 // Entry
-$_['entry_name']              = 'Country Name';
-$_['entry_iso_code_2']        = 'ISO Code (2)';
-$_['entry_iso_code_3']        = 'ISO Code (3)';
-$_['entry_address_format']    = 'Address Format';
-$_['entry_postcode_required'] = 'Postcode Required';
+$_['entry_name']              = 'Naziv države';
+$_['entry_iso_code_2']        = 'ISO kod (2)';
+$_['entry_iso_code_3']        = 'ISO kod (3)';
+$_['entry_address_format']    = 'Format adrese';
+$_['entry_postcode_required'] = 'Neophodan poštanski kod';
 $_['entry_status']            = 'Status';
 
 // Help
-$_['help_address_format']     = 'First Name = {firstname}<br />Last Name = {lastname}<br />Company = {company}<br />Address 1 = {address_1}<br />Address 2 = {address_2}<br />City = {city}<br />Postcode = {postcode}<br />Zone = {zone}<br />Zone Code = {zone_code}<br />Country = {country}';
+$_['help_address_format']     = 'Ime = {firstname}<br />Prezime = {lastname}<br />Kompanija = {company}<br />Adresa 1 = {address_1}<br />Adresa 2 = {address_2}<br />Grad = {city}<br />Poštanski kod = {postcode}<br />Zona = {zone}<br />Kod zone = {zone_code}<br />Država = {country}';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify countries!';
-$_['error_name']              = 'Country Name must be between 1 and 128 characters!';
-$_['error_default']           = 'Warning: This country cannot be deleted as it is currently assigned as the default store country!';
-$_['error_store']             = 'Warning: This country cannot be deleted as it is currently assigned to %s stores!';
-$_['error_address']           = 'Warning: This country cannot be deleted as it is currently assigned to %s address book entries!';
-$_['error_affiliate']         = 'Warning: This country cannot be deleted as it is currently assigned to %s affiliates!';
-$_['error_zone']              = 'Warning: This country cannot be deleted as it is currently assigned to %s zones!';
-$_['error_zone_to_geo_zone']  = 'Warning: This country cannot be deleted as it is currently assigned to %s zones to geo zones!';
+$_['error_permission']        = 'Upozorenje: Nemate dozvolu!';
+$_['error_name']              = 'Naziv države mora biti dužine između 1 i 128 karaktera!';
+$_['error_default']           = 'Upozorenje: Ova država trenutno ne može biti obrisana jer je u upotrebi!';
+$_['error_store']             = 'Upozorenje: Ova država trenutno ne može biti obrisana jer je u upotrebi';
+$_['error_address']           = 'Upozorenje: Ova država trenutno ne može biti obrisana jer je u upotrebi';
+$_['error_affiliate']         = 'Upozorenje: Ova država trenutno ne može biti obrisana jer je u upotrebi';
+$_['error_zone']              = 'Upozorenje: Ova država trenutno ne može biti obrisana jer je u upotrebi';
+$_['error_zone_to_geo_zone']  = 'Upozorenje: Ova država trenutno ne može biti obrisana jer je u upotrebi';

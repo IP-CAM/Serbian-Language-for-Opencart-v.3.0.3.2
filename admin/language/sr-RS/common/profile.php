@@ -19,7 +19,7 @@ $_['entry_confirm']         = 'Potvrda lozinke';
 $_['entry_firstname']       = 'Ime';
 $_['entry_lastname']        = 'Prezime';
 $_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'SLika';
+$_['entry_image']           = 'Slika';
 
 // Error
 $_['error_permission']      = 'Upozorenje: Nemate dozvolu za izmenu!';

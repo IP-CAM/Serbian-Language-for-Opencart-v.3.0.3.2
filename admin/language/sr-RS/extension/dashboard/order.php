@@ -1,12 +1,12 @@
 <?php
 // Heading
-$_['heading_title']    = 'Total Orders';
+$_['heading_title']    = 'Ukupno porudžbina';
 
 // Text
 $_['text_extension']   = 'Extensions';
 $_['text_success']     = 'Success: You have modified dashboard orders!';
 $_['text_edit']        = 'Edit Dashboard Orders';
-$_['text_view']        = 'View more...';
+$_['text_view']        = 'Vidi detaljnije...';
 
 // Entry
 $_['entry_status']     = 'Status';
