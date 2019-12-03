@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']           = 'Success: You have modified orders!';
+$_['text_success']           = 'Uspešno: Porudžbina sačuvana!';
 
 // Error
 $_['error_permission']       = 'Warning: You do not have permission to access the API!';
