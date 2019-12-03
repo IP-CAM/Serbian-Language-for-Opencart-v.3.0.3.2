@@ -7,11 +7,11 @@ $_['text_extension']    = 'Extensions';
 $_['text_edit']         = 'Edit Sales Report';
 $_['text_success']      = 'Success: You have modified sales report!';
 $_['text_filter']       = 'Filter';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_year']         = 'Godinama';
+$_['text_month']        = 'Mesecima';
+$_['text_week']         = 'Nedeljama';
+$_['text_day']          = 'Danima';
+$_['text_all_status']   = 'Svi statusi';
 
 // Column
 $_['column_date_start'] = 'Od datuma';
