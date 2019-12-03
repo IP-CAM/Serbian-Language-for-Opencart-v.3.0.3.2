@@ -7,7 +7,7 @@ $_['text_extension']        = 'Extensions';
 $_['text_edit']             = 'Edit Customer Orders Report';
 $_['text_success']          = 'Success: You have modified customer orders report!';
 $_['text_filter']           = 'Filter';
-$_['text_all_status']       = 'All Statuses';
+$_['text_all_status']       = 'Svi statusi';
 
 // Column
 $_['column_customer']       = 'Ime korisnika';
