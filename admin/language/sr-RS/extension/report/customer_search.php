@@ -7,7 +7,7 @@ $_['text_extension']    = 'Extensions';
 $_['text_edit']         = 'Edit Customer Searches Report';
 $_['text_success']      = 'Success: You have modified customer searches report!';
 $_['text_filter']       = 'Filter';
-$_['text_guest']        = 'Guest';
+$_['text_guest']        = 'Gost';
 $_['text_customer']     = '<span style="display: none;">%s</span>%s';
 //$_['text_customer']     = '<a href="%s">%s</a>';
 
