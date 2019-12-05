@@ -11,7 +11,7 @@ $_['text_voucher']      = 'Gift Certificates';
 $_['text_affiliate']    = 'Affiliate';
 $_['text_special']      = 'Specials';
 $_['text_account']      = 'Moj nalog';
-$_['text_order']        = 'Istorija poručivanja';
+$_['text_order']        = 'Vidi porudžbine';
 $_['text_wishlist']     = 'Lista želja';
 $_['text_newsletter']   = 'Novine';
 $_['text_powered']      = 'Webshop napravio <b><a href="https://fish-studio.net" target="_blank">Fish Studio</a></b><br/> %s &copy; %s';

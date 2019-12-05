@@ -75,6 +75,22 @@ Nalog
     - Preuzimanja
     - Prijavi se ili odjavi na novine
     - Odjava
+API
+    - Korpa
+    - Kupon
+Kasa
+    - Korpa
+    - Kasa
+    - Uspesna porudžbina
+    - Neuspešna porudžbina
+Common
+    - Korpa
+    - Header
+    - Footer
+    - Održavanje
+    - Meni
+    - Pretraga
+404 nije pronađeno
 ```
 
 ## Instalacija
