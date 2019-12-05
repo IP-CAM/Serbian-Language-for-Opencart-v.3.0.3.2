@@ -60,6 +60,23 @@ Izveštaji
     - Ko je onlajn
 ```
 
+### Prodavnica(catalog)
+
+```
+Nalog
+    - Registracija
+    - Prijava
+    - Zaboravljena lozinka
+    - Moj nalog
+    - Izmeni lične podatke
+    - Izmeni lozinku
+    - Izmeni adresu
+    - Vidi porudžbine
+    - Preuzimanja
+    - Prijavi se ili odjavi na novine
+    - Odjava
+```
+
 ## Instalacija
 
 Napravite nove foldere na Vašem hostingu.

@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']      = 'Address Book';
+$_['heading_title']      = 'Moje adrese';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_address_book']  = 'Address Book Entries';
-$_['text_address_add']   = 'Add Address';
-$_['text_address_edit']  = 'Edit Address';
-$_['text_add']           = 'Your address has been successfully added';
-$_['text_edit']          = 'Your address has been successfully updated';
-$_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_empty']         = 'You have no addresses in your account.';
+$_['text_account']       = 'Nalog';
+$_['text_address_book']  = 'Moje adrese';
+$_['text_address_add']   = 'Dodaj adresu';
+$_['text_address_edit']  = 'Izmeni adresu';
+$_['text_add']           = 'Adresa uspešno dodata';
+$_['text_edit']          = 'Adresa uspešno izmenjena';
+$_['text_delete']        = 'Adresa uspešno obrisana';
+$_['text_empty']         = 'Trenutno nemate upisanu adresu.';
 
 // Entry
-$_['entry_firstname']    = 'First Name';
-$_['entry_lastname']     = 'Last Name';
+$_['entry_firstname']    = 'Ime';
+$_['entry_lastname']     = 'Prezime';
 $_['entry_company']      = 'Company';
-$_['entry_address_1']    = 'Address 1';
-$_['entry_address_2']    = 'Address 2';
-$_['entry_postcode']     = 'Post Code';
-$_['entry_city']         = 'City';
-$_['entry_country']      = 'Country';
-$_['entry_zone']         = 'Region / State';
-$_['entry_default']      = 'Default Address';
+$_['entry_address_1']    = 'Adresa 1';
+$_['entry_address_2']    = 'Adresa 2';
+$_['entry_postcode']     = 'Poštanski kod';
+$_['entry_city']         = 'Grad';
+$_['entry_country']      = 'Država';
+$_['entry_zone']         = 'Region';
+$_['entry_default']      = 'Podrazumevana adresa';
 
 // Error
-$_['error_delete']       = 'Warning: You must have at least one address!';
-$_['error_default']      = 'Warning: You can not delete your default address!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_address_1']    = 'Address must be between 3 and 128 characters!';
-$_['error_postcode']     = 'Postcode must be between 2 and 10 characters!';
-$_['error_city']         = 'City must be between 2 and 128 characters!';
-$_['error_country']      = 'Please select a country!';
-$_['error_zone']         = 'Please select a region / state!';
-$_['error_custom_field'] = '%s required!';
+$_['error_delete']       = 'Upozorenje: Morate imati adresu!';
+$_['error_default']      = 'Upozorenje: Ne možete obrisati podrazumevanu adresu!';
+$_['error_firstname']    = 'Ime mora biti dužine između 1 i 32 karaktera!';
+$_['error_lastname']     = 'Prezime mora biti dužine između 1 i 32 karaktera!';
+$_['error_address_1']    = 'Adresa mora biti dužine između 3 i 128 karaktera';
+$_['error_postcode']     = 'Poštanski kod mora biti dužine između 2 i 10 karaktera!';
+$_['error_city']         = 'Naziv grada mora biti dužine između 2 i 128 karaktera!';
+$_['error_country']      = 'Morate izabrati državu!';
+$_['error_zone']         = 'Morate izabrati region!';
+$_['error_custom_field'] = '%s neophodno!';
