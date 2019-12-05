@@ -25,8 +25,8 @@ $_['entry_zone']         = 'Region';
 $_['entry_default']      = 'Podrazumevana adresa';
 
 // Error
-$_['error_delete']       = 'Upozorenje: Morate imati adresu!';
-$_['error_default']      = 'Upozorenje: Ne možete obrisati podrazumevanu adresu!';
+$_['error_delete']       = 'Morate imati adresu!';
+$_['error_default']      = 'Ne možete obrisati podrazumevanu adresu!';
 $_['error_firstname']    = 'Ime mora biti dužine između 1 i 32 karaktera!';
 $_['error_lastname']     = 'Prezime mora biti dužine između 1 i 32 karaktera!';
 $_['error_address_1']    = 'Adresa mora biti dužine između 3 i 128 karaktera';

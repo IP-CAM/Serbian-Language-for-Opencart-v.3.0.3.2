@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title'] = 'Neuspelo plaćanje!';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_basket']   = 'Korpa';
+$_['text_checkout'] = 'Kasa';
+$_['text_failure']  = 'Neuspelo plaćanje';
+$_['text_message']  = '<p>Došlo je do problema prilikom obrade Vaše porudžbine.</p>
 
-<p>Possible reasons are:</p>
+<p>Mogući razlozi:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>Nedostatak sredstava</li>
+  <li>Neuspela verifikacija</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>Molimo Vas da pokušate ponovo.</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>Ako problem i dalje postoji, molimo Vas da nas <a href="%s">kontaktirate</a>.</p>
 ';

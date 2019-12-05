@@ -17,6 +17,6 @@ $_['entry_email']                  = 'E-Mail adresa';
 $_['entry_password']               = 'Lozinka';
 
 // Error
-$_['error_login']                  = 'Upozorenje: E-Mail ili lozinka su neispravni.';
-$_['error_attempts']               = 'Upozorenje: Previše puta ste neuspešno pokušali da se prijavite. Molimo Vas pokušajte ponovo za jedan sat.';
-$_['error_approved']               = 'Upozorenje: Neophodno je da administratori odobre Vaš nalog.';
+$_['error_login']                  = 'E-Mail ili lozinka su neispravni.';
+$_['error_attempts']               = 'Previše puta ste neuspešno pokušali da se prijavite. Molimo Vas pokušajte ponovo za jedan sat.';
+$_['error_approved']               = 'Neophodno je da administratori odobre Vaš nalog.';

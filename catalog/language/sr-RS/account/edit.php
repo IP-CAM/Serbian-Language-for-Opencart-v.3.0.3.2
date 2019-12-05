@@ -15,7 +15,7 @@ $_['entry_email']        = 'E-Mail';
 $_['entry_telephone']    = 'Telefon';
 
 // Error
-$_['error_exists']       = 'Upozorenje: Neko sa istom E-Mail adresom je već registrovan!';
+$_['error_exists']       = 'Neko sa istom E-Mail adresom je već registrovan!';
 $_['error_firstname']    = 'Ime mora biti dužine između 1 i 32 karaktera!';
 $_['error_lastname']     = 'Prezime mora biti dužine između 1 i 32 karaktera!';
 $_['error_email']        = 'Neispravna E-Mail adresa!';

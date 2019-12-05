@@ -23,7 +23,7 @@ $_['entry_password']       = 'Lozinka';
 $_['entry_confirm']        = 'Potvrda lozinke';
 
 // Error
-$_['error_exists']         = 'Upozorenje: Neko sa istom E-Mail adresom je već registrovan!';
+$_['error_exists']         = 'Neko sa istom E-Mail adresom je već registrovan!';
 $_['error_firstname']      = 'Ime mora biti dužine između 1 i 32 karaktera!';
 $_['error_lastname']       = 'Prezime mora biti dužine između 1 i 32 karaktera!';
 $_['error_email']          = 'Neispravna E-Mail adresa!';
@@ -31,4 +31,4 @@ $_['error_telephone']      = 'Broj telefona mora biti dužine između 3 i 32 kar
 $_['error_custom_field']   = '%s neophodno!';
 $_['error_password']       = 'Lozinka mora biti dužine između 4 i 20 karaktera!';
 $_['error_confirm']        = 'Lozinka i potvrda lozinke se ne slažu!';
-$_['error_agree']          = 'Upozorenje: Morate pročitati i složiti se sa uslovima korišćenja!';
+$_['error_agree']          = 'Morate pročitati i složiti se sa uslovima korišćenja!';

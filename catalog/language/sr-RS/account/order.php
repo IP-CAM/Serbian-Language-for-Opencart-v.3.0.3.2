@@ -15,7 +15,7 @@ $_['text_payment_address']  = 'Adresa za naplatu';
 $_['text_payment_method']   = 'Metod plaćanja:';
 $_['text_comment']          = 'Poruka kupca';
 $_['text_history']          = 'Aktivnosti porudžbine';
-$_['text_success']          = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_success']          = '<a href="%s">%s</a> uspešno ubačen u Vašu <a href="%s">korpu</a>!';
 $_['text_empty']            = 'Nemate porudžbina!';
 $_['text_error']            = 'Porudžbina nije pronađena!';
 
