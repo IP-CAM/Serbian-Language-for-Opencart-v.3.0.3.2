@@ -31,7 +31,7 @@ $_['column_name']              = 'Naziv proizvoda';
 $_['column_model']             = 'Model';
 $_['column_quantity']          = 'Količina';
 $_['column_price']             = 'Cena';
-$_['column_total']             = 'Ukupan iznos';
+$_['column_total']             = 'Iznos';
 
 // Error
 $_['error_stock']              = 'Proizvodi označeni sa *** nisu dostupni u željenoj količini ili ih nema na stanju!';

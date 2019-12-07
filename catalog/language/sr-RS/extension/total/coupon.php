@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Iskoristi kupon';
 
 // Text
-$_['text_coupon']   = 'Coupon (%s)';
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_coupon']   = 'Kupon (%s)';
+$_['text_success']  = 'Uspešno ste primenili kupon!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Upišite kod kupona';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Nevažeći kupon!';
+$_['error_empty']   = 'Morate uneti kod kupona!';
