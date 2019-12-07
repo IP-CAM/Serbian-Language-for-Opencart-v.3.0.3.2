@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Order Update %s';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Your order has been updated to the following status:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';
+$_['text_subject']      = '%s - Ažuriranje porudžbine #%s';
+$_['text_order_id']     = 'ID porudžbine:';
+$_['text_date_added']   = 'Datum porudžbine:';
+$_['text_order_status'] = 'Vaša porudžbina je dobila novi status:';
+$_['text_comment']      = 'Komentar:';
+$_['text_link']         = 'Da pogledate Vašu porudžbinu kliknite na link ispod:';
+$_['text_footer']       = 'Ukoliko imate bilo kakva pitanja, molimo Vas da odgovorite na ovaj E-Mail.';
