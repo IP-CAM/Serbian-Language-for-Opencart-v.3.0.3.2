@@ -17,7 +17,7 @@ $_['text_write']               = 'Napiši komentar';
 $_['text_login']               = 'Molimo Vas da se <a href="%s">prijavite</a> ili <a href="%s">registrujete</a>.';
 $_['text_no_reviews']          = 'Trenutno nema komentara za ovaj proizvod.';
 $_['text_note']                = '<span class="text-danger">Note:</span> HTML is not translated!';
-$_['text_success']             = 'Thank you for your review. It has been submitted to the webmaster for approval.';
+$_['text_success']             = 'Hvala Vam za komentar. Komentar će biti objavljen kada ga administrator odobri.';
 $_['text_related']             = 'Povezani proizvodi';
 $_['text_tags']                = 'Tagovi:';
 $_['text_error']               = 'Proizvod nije pronađen!';
