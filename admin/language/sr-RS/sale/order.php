@@ -59,7 +59,7 @@ $_['text_commission_added']      = 'Success: Commission added!';
 $_['text_commission_removed']    = 'Success: Commission removed!';
 $_['text_restock']               = 'Success: Products have been restocked!';
 $_['text_upload']                = 'Fajl uspešno uploadovan!';
-$_['text_picklist']              = 'Dispatch Note';
+$_['text_picklist']              = 'Otpremnica';
 
 // Column
 $_['column_order_id']            = 'ID porudžbine';
