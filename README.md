@@ -2,9 +2,9 @@
 
 Nekompletan smislen latinični prevod OpenCart-a uključujući i prodavnicu(catalog) i kontrolni panel(admin).
 
-## Zašto nekompletan?
+## Šta nije prevedeno?
 
-Nekompletan je iz razloga što se u Srbiji retko koriste izostavljene opcije. Dakle prevedene su one stvari koje su bitne za Web prodavnice u državi Srbiji.
+Nisu prevedeni delovi kao što su gift kodovi, nagradni bodovi i druge "nepotrebne" stvari.
 
 ## Šta je prevedeno?
 
